@@ -12,4 +12,14 @@
 4. Where the kotlin program starts running?     
     It start from the main function
 
+5. Could you speak about relevant style guide recommendations in Kotlin?
+    - Function names should be in camel case and should be verbs or verb phrases.
+    - Each statement should be on its own line.
+    - The opening curly brace should appear at the end of the line where the function begins.
+    - There should be a space before the opening curly brace
+    - The function body should be indented in by 4 spaces. Do not use a tab character to indent your code, type in 4 spaces.
+    - The closing curly brace is on its own line after the last line of code in the function body. The closing brace should line up with the fun keyword at the beginning of the function.
+
+7. What's troubleshooting in code?  
+    Troubleshooting in code means finding and fixing errors in a program. It involves checking error messages, testing different solutions, and making sure the code works correctly.
     

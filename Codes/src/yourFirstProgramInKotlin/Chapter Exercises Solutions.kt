@@ -14,6 +14,8 @@ private fun main() {
     fifthExercise()
     println("------")
     sixthExercise()
+    println("------")
+    seventhExercise()
 }
 
 private fun secondExercise(){
@@ -42,4 +44,8 @@ private fun sixthExercise() {
     println("Cloudy")
     println("Partly Cloudy")
     println("Windy")
+}
+
+private fun seventhExercise() {
+println("How's the weather today?")
 }
