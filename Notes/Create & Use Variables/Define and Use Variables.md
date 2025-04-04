@@ -20,5 +20,6 @@
 4.  What's literal values?  
     **Answer:** are fixed or constant values declared with **val**
 
-5. 
+5. What's the function of the $ on a string?
+    The symbopl "$" on a string it's a string template that have a function to call the expression's evaluated and its value gets substituted into the string.
 
