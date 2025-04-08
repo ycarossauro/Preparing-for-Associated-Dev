@@ -20,6 +20,23 @@
 4.  What's literal values?  
     **Answer:** are fixed or constant values declared with **val**
 
-5. What's the function of the $ on a string?
-    The symbopl "$" on a string it's a string template that have a function to call the expression's evaluated and its value gets substituted into the string.
+5. What's the function of the "$" on a string?  
+    The symbol "$" on a string it's a string template that have a function to call the expression's evaluated and its value gets substituted into the string.
 
+6. What's the different abouyt val and var?
+    Val is used when you expect the variable value will not change and var is used when you expect the variable value can change
+
+7. What's concatenation in kotlin?  
+    It's when you combine two strings together like the example: 
+    ```kotlin
+        val nextMeeting = "Next meeting:"
+        val date = "January 1"
+        val reminder = nextMeeting + date
+        println(reminder)
+    ```
+8. If someone want to use quotation marks in a string what he needs to do?  
+    The person needs to put a ```\"``` for example: 
+     ```kotlin
+        println("Say \"hello\"")
+    ```
+    Result: Say "hello"
