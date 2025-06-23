@@ -6,6 +6,7 @@
 2. How to define a function in kotlin?  
 a.   First, you need a **name** for call it later.
 b.   The function can require some **inputs** and that need to be provided when the function is called. 
+
 3. What does it means keywords in kotlin?
     Keywords in Kotlin are reserved words that have a special meaning in the language and cannot be used as identifiers (e.g., variable names, function names). Examples include `fun`, `val`, `var`, `if`, and `return`.
 
